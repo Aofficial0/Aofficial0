@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=Aofficial0&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 👋 Hi, I’m Ahmed
 - Full-stack developer with a passion for building dynamic web applications, focused on crafting interactive and responsive user experiences.
 - 📫 How to reach me <a href='https://aofficial0.github.io/devportfolio/' >Portolio</a> 
